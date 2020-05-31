@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "mobile",
+      "display_name": "Mobile",
+      "description": "Things you can take anywhere"
+    },
+    {
+      "id": "2",
+      "name": "stationary",
+      "display_name": "Mobile",
+      "description": "Things you can't take anywhere"
+    },
+    {
+      "name": "{}",
+      "id": "LHSljXF"
+    },
+    {
+      "name": "{}",
+      "id": "O9CJK5n"
+    },
+    {
+      "name": "mobile",
+      "id": "kt87KTz"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category": "mobile",
+      "name": "oneplus 6",
+      "display_name": "Oneplus 6",
+      "description": "Best Mobile Phone Ever"
+    },
+    {
+      "id": "2",
+      "category": "mobile",
+      "name": "oneplus 7t",
+      "display_name": "Oneplus 7t",
+      "description": "Also best mobile phone ever"
+    },
+    {
+      "id": "3",
+      "category": "stationary",
+      "name": "Bent by mistake screen",
+      "display_name": "Super cool flashy curvy amoled screen",
+      "description": "A screen you can't take anywhere, also easily breakable"
+    },
+    {
+      "id": "4",
+      "category": "stationary",
+      "name": "We didn't learn and bent another screen",
+      "display_name": "Another super cool flashy curvy amoled screen",
+      "description": "Another screen you can't take anywhere, also easily breakable"
+    }
+  ]
+}
