@@ -28,4 +28,10 @@ describe('server', () => {
       expect(result.status).toBe(200);
     });
   });
+
+  it('Should respond with 200 status on a valid get request', () => {
+    return mockRequest.get('/categories').then(result => {
+      expect(result.status).toBe(200);
+    });
+  });
 });
