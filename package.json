@@ -1,0 +1,35 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "## Topic: API Server",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.1.0",
+    "jest": "^26.0.1",
+    "lint": "^0.7.0"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-tommalieh/api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-tommalieh/api-server/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-tommalieh/api-server#readme"
+}
