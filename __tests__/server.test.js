@@ -1,8 +1,8 @@
 'use strict';
 
 const {server} = require('../lib/server.js');
-const supertest = require('supertest');
-const mockRequest = supertest(server);
+const supergoose = require('@code-fellows/supergoose');
+const mockRequest = supergoose(server);
 
 describe('server', () => {
   it('Should respond with 404 status and send JSON of the message on invalid route', () => {
@@ -30,7 +30,7 @@ describe('server', () => {
   });
 
   it('Should respond with 200 status on a valid get request', () => {
-    return mockRequest.get('/categories').then(result => {
+    return mockRequest.get('/categories ').then(result => {
       expect(result.status).toBe(200);
     });
   });
