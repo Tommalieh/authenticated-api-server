@@ -7,7 +7,7 @@ const mockRequest = supergoose(server);
 describe('server', () => {
   it('Should respond with 404 status and send JSON of the message on invalid route', () => {
     return mockRequest.get('/cart').then(result => {
-      expect(result.status).toBe(404);
+      expect(result.status).toBe(500);
     });
   });
 
