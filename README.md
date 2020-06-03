@@ -1,4 +1,4 @@
-# LAB - Class 08
+# LAB - Class 09
 
 ## Topic: API Server
 
@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [Submission PR](https://github.com/401-advanced-javascript-tommalieh/api-server/pull/3)
+- [Submission PR](https://github.com/401-advanced-javascript-tommalieh/api-server/pull/4)
 
 ### Setup
 
