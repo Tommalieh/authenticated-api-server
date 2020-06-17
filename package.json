@@ -8,11 +8,17 @@
     "lib": "lib"
   },
   "dependencies": {
+    "base-64": "^0.1.0",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.16",
     "morgan": "^1.10.0",
+    "superagent": "^5.2.2",
+    "supergoose": "^0.2.6",
     "supertest": "^4.0.2"
   },
   "devDependencies": {
