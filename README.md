@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [Submission PR](https://github.com/401-advanced-javascript-tommalieh/api-server/pull/4)
+- [Submission PR](https://github.com/Tommalieh/authenticated-api-server)
 
 ### Setup
 
