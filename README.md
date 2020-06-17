@@ -1,6 +1,6 @@
-# LAB - Class 09
+# LAB - Class 15
 
-## Topic: API Server
+## Topic: Authenticated API Server
 
 ### Author: Muhammed Tommalieh
 
@@ -14,7 +14,7 @@
 
 - e.g.
 - `nodemon`
-- `http http://localhost:3000/products`
+- `http http://localhost:3000/api/v1/products`
 
 
 #### Tests
