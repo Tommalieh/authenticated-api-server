@@ -25,7 +25,7 @@
     "@code-fellows/supergoose": "^1.0.2",
     "eslint": "^7.1.0",
     "jest": "^26.0.1",
-    "lint": "^0.7.0"
+    "lint": "^0.8.8"
   },
   "scripts": {
     "test": "jest --verbose --coverage",
